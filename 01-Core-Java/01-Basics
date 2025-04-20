@@ -1,0 +1,12 @@
+
+JDK (Java Development Kit ):
+Full package to write, compile, and run Java programs (includes JRE + compiler + tools)
+
+JRE(Java Runtime Environment):
+Runs Java programs (contains JVM + libraries)
+
+JVM(Java Virtual Machine):
+The engine that actually executes Java bytecode
+
+Program Flow:
+You write code → Compile with javac → Generates .class file (bytecode) → JVM runs it
